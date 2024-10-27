@@ -1,0 +1,17 @@
+{
+  "name": "youtube-mini",
+  "version": "1.0.0",
+  "description": "YouTube Mini web app using MERN Stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "YouTube",
+    "JavaScript",
+    "Backend",
+    "MERN"
+  ],
+  "author": "Sudhanshu Gupta",
+  "license": "ISC"
+}

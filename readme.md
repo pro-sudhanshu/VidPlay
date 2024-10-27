@@ -1,0 +1,1 @@
+This is a mini-YouTube project using JavaScript (MERN Stack).
